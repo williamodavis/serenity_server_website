@@ -225,6 +225,10 @@ margin-left: 65px;
 .paragraphText {
 padding-left: 40px;
 }
+
+.diagonMap {
+  width: 16%;
+}
 /*RWD styling */
   @media screen and (max-width: 700px) {
     .grid-container {
